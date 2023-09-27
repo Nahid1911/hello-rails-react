@@ -37,8 +37,6 @@
     "build/**",
     "dist/**",
     "**/reset*.css",
-    "**/bootstrap*.css",
-    "**/*.js",
-    "**/*.jsx"
+    "**/bootstrap*.css"
   ]
 }
